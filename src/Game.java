@@ -11,7 +11,7 @@ import javax.swing.ImageIcon;
 /**
  * A guessing game which has various difficulties
  *
- * @author tayloreyben0315
+ * @author seymour
  */
 public class Game extends javax.swing.JFrame {
 
